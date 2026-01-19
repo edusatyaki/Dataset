@@ -2,6 +2,8 @@ The Nescafe dataset contains sales, customer, product, and marketing information
 It includes details such as product types, sales, profit, expenses, inventory, and budget figures, along with customer location and order date. 
 This dataset is useful for practicing data cleaning, data analysis, reporting, and business performance analysis using Excel, SQL, or Python.
 
+Link of Dataset: https://github.com/edusatyaki/Dataset/blob/main/Nescafe.csv
+
 | Column Name    | Description                                                     |
 | -------------- | --------------------------------------------------------------- |
 | Area Code      | Telephone area code representing the customer’s region          |
