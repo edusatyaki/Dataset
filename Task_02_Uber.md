@@ -21,6 +21,8 @@ Each row in the dataset represents a **single Uber trip**.
 
 ---
 
+- Link : https://github.com/edusatyaki/Dataset/blob/main/uber_trips_dataset_50k.csv
+
 ## Section A: Understanding the Dataset (Recall)
 
 - What does each row in the Uber trips dataset represent?
