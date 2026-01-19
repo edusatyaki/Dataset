@@ -1,4 +1,6 @@
-The Nescafe dataset contains sales, customer, product, and marketing information for a beverage business across different markets and regions. It includes details such as product types, sales, profit, expenses, inventory, and budget figures, along with customer location and order date. This dataset is useful for practicing data cleaning, data analysis, reporting, and business performance analysis using Excel, SQL, or Python.
+The Nescafe dataset contains sales, customer, product, and marketing information for a beverage business across different markets and regions. 
+It includes details such as product types, sales, profit, expenses, inventory, and budget figures, along with customer location and order date. 
+This dataset is useful for practicing data cleaning, data analysis, reporting, and business performance analysis using Excel, SQL, or Python.
 
 | Column Name    | Description                                                     |
 | -------------- | --------------------------------------------------------------- |
