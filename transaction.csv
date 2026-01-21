@@ -1,0 +1,101 @@
+Transaction ID,Date,Employee ID,Payer Name,Department,Category,Amount ($),Status,Method,Region
+TXN-4001,2026-01-01,E101,Alice Johnson,Sales,Travel,450,Completed,Credit Card,North
+TXN-4002,2026-01-01,E102,Bob Smith,IT,Software,1200.5,Pending,Bank Transfer,West
+TXN-4003,2026-01-02,E103,Charlie Brown,HR,Training,300,Completed,Cash,South
+TXN-4004,2026-01-02,E104,David Miller,Marketing,Advertising,2500,Completed,Credit Card,East
+TXN-4005,2026-01-03,E105,Eve Williams,Engineering,Hardware,890.75,Failed,Bank Transfer,North
+TXN-4006,2026-01-03,E101,Alice Johnson,Sales,Travel,120,Completed,Credit Card,North
+TXN-4007,2026-01-04,E106,Frank Wright,Sales,Meals,45.2,Completed,Cash,West
+TXN-4008,2026-01-04,E107,Grace Lee,IT,Hardware,150,Pending,Credit Card,South
+TXN-4009,2026-01-05,E108,Henry Ford,Marketing,Travel,600,Completed,Bank Transfer,East
+TXN-4010,2026-01-05,E109,Ivy Green,HR,Recruitment,1100,Completed,Credit Card,North
+TXN-4011,2026-01-06,E110,Jack White,Engineering,Software,550,Completed,Bank Transfer,West
+TXN-4012,2026-01-06,E111,Kelly Blue,Marketing,Ads,900,Pending,Credit Card,South
+TXN-4013,2026-01-07,E112,Liam Gold,Sales,Travel,200,Completed,Cash,East
+TXN-4014,2026-01-07,E113,Mona Silver,IT,Hardware,1300,Completed,Bank Transfer,North
+TXN-4015,2026-01-08,E114,Noah Black,HR,Training,450,Failed,Credit Card,West
+TXN-4016,2026-01-08,E115,Olivia Grey,Engineering,Travel,700,Completed,Credit Card,South
+TXN-4017,2026-01-09,E116,Paul Red,Marketing,Software,320,Pending,Bank Transfer,East
+TXN-4018,2026-01-09,E117,Quinn Rose,Sales,Meals,60,Completed,Cash,North
+TXN-4019,2026-01-10,E118,Ryan Blue,IT,Hardware,950,Completed,Credit Card,West
+TXN-4020,2026-01-10,E119,Sarah Pink,HR,Recruitment,2100,Completed,Bank Transfer,South
+TXN-4021,2026-01-11,E120,Tom Yellow,Engineering,Ads,1500,Completed,Credit Card,East
+TXN-4022,2026-01-11,E101,Alice Johnson,Sales,Travel,300,Pending,Cash,North
+TXN-4023,2026-01-12,E102,Bob Smith,IT,Software,450,Completed,Bank Transfer,West
+TXN-4024,2026-01-12,E103,Charlie Brown,HR,Training,150,Completed,Credit Card,South
+TXN-4025,2026-01-13,E104,David Miller,Marketing,Advertising,500,Failed,Cash,East
+TXN-4026,2026-01-13,E105,Eve Williams,Engineering,Hardware,120,Completed,Credit Card,North
+TXN-4027,2026-01-14,E106,Frank Wright,Sales,Meals,200,Pending,Bank Transfer,West
+TXN-4028,2026-01-14,E107,Grace Lee,IT,Hardware,800,Completed,Credit Card,South
+TXN-4029,2026-01-15,E108,Henry Ford,Marketing,Travel,350,Completed,Cash,East
+TXN-4030,2026-01-15,E109,Ivy Green,HR,Recruitment,750,Completed,Bank Transfer,North
+TXN-4031,2026-01-16,E110,Jack White,Engineering,Software,100,Pending,Credit Card,West
+TXN-4032,2026-01-16,E111,Kelly Blue,Marketing,Ads,400,Completed,Cash,South
+TXN-4033,2026-01-17,E112,Liam Gold,Sales,Travel,900,Completed,Bank Transfer,East
+TXN-4034,2026-01-17,E113,Mona Silver,IT,Hardware,150,Failed,Credit Card,North
+TXN-4035,2026-01-18,E114,Noah Black,HR,Training,2000,Completed,Cash,West
+TXN-4036,2026-01-18,E115,Olivia Grey,Engineering,Travel,300,Pending,Bank Transfer,South
+TXN-4037,2026-01-19,E116,Paul Red,Marketing,Software,110,Completed,Credit Card,East
+TXN-4038,2026-01-19,E117,Quinn Rose,Sales,Meals,500,Completed,Cash,North
+TXN-4039,2026-01-20,E118,Ryan Blue,IT,Hardware,600,Completed,Bank Transfer,West
+TXN-4040,2026-01-20,E119,Sarah Pink,HR,Recruitment,400,Failed,Credit Card,South
+TXN-4041,2026-01-21,E120,Tom Yellow,Engineering,Ads,150,Pending,Cash,East
+TXN-4042,2026-01-21,E101,Alice Johnson,Sales,Travel,250,Completed,Bank Transfer,North
+TXN-4043,2026-01-22,E102,Bob Smith,IT,Software,300,Completed,Credit Card,West
+TXN-4044,2026-01-22,E103,Charlie Brown,HR,Training,1200,Completed,Cash,South
+TXN-4045,2026-01-23,E104,David Miller,Marketing,Advertising,400,Failed,Bank Transfer,East
+TXN-4046,2026-01-23,E105,Eve Williams,Engineering,Hardware,900,Pending,Credit Card,North
+TXN-4047,2026-01-24,E106,Frank Wright,Sales,Meals,50,Completed,Cash,West
+TXN-4048,2026-01-24,E107,Grace Lee,IT,Hardware,350,Completed,Bank Transfer,South
+TXN-4049,2026-01-25,E108,Henry Ford,Marketing,Travel,650,Completed,Credit Card,East
+TXN-4050,2026-01-25,E109,Ivy Green,HR,Recruitment,100,Pending,Cash,North
+TXN-4051,2026-01-26,E110,Jack White,Engineering,Software,200,Completed,Bank Transfer,West
+TXN-4052,2026-01-26,E111,Kelly Blue,Marketing,Ads,1300,Completed,Credit Card,South
+TXN-4053,2026-01-27,E112,Liam Gold,Sales,Travel,450,Failed,Cash,East
+TXN-4054,2026-01-27,E113,Mona Silver,IT,Hardware,500,Completed,Bank Transfer,North
+TXN-4055,2026-01-28,E114,Noah Black,HR,Training,100,Pending,Credit Card,West
+TXN-4056,2026-01-28,E115,Olivia Grey,Engineering,Travel,950,Completed,Cash,South
+TXN-4057,2026-01-29,E116,Paul Red,Marketing,Software,600,Completed,Bank Transfer,East
+TXN-4058,2026-01-29,E117,Quinn Rose,Sales,Meals,150,Completed,Credit Card,North
+TXN-4059,2026-01-30,E118,Ryan Blue,IT,Hardware,400,Failed,Cash,West
+TXN-4060,2026-01-30,E119,Sarah Pink,HR,Recruitment,150,Pending,Bank Transfer,South
+TXN-4061,2026-01-31,E120,Tom Yellow,Engineering,Ads,1200,Completed,Credit Card,East
+TXN-4062,2026-01-31,E101,Alice Johnson,Sales,Travel,200,Completed,Cash,North
+TXN-4063,2026-02-01,E102,Bob Smith,IT,Software,300,Pending,Bank Transfer,West
+TXN-4064,2026-02-01,E103,Charlie Brown,HR,Training,500,Completed,Credit Card,South
+TXN-4065,2026-02-02,E104,David Miller,Marketing,Advertising,100,Completed,Cash,East
+TXN-4066,2026-02-02,E105,Eve Williams,Engineering,Hardware,1500,Failed,Bank Transfer,North
+TXN-4067,2026-02-03,E106,Frank Wright,Sales,Meals,250,Pending,Credit Card,West
+TXN-4068,2026-02-03,E107,Grace Lee,IT,Hardware,400,Completed,Cash,South
+TXN-4069,2026-02-04,E108,Henry Ford,Marketing,Travel,350,Completed,Bank Transfer,East
+TXN-4070,2026-02-04,E109,Ivy Green,HR,Recruitment,900,Completed,Credit Card,North
+TXN-4071,2026-02-05,E110,Jack White,Engineering,Software,50,Pending,Cash,West
+TXN-4072,2026-02-05,E111,Kelly Blue,Marketing,Ads,200,Completed,Bank Transfer,South
+TXN-4073,2026-02-06,E112,Liam Gold,Sales,Travel,1300,Completed,Credit Card,East
+TXN-4074,2026-02-06,E113,Mona Silver,IT,Hardware,450,Failed,Cash,North
+TXN-4075,2026-02-07,E114,Noah Black,HR,Training,500,Pending,Bank Transfer,West
+TXN-4076,2026-02-07,E115,Olivia Grey,Engineering,Travel,100,Completed,Credit Card,South
+TXN-4077,2026-02-08,E116,Paul Red,Marketing,Software,950,Completed,Cash,East
+TXN-4078,2026-02-08,E117,Quinn Rose,Sales,Meals,600,Completed,Bank Transfer,North
+TXN-4079,2026-02-09,E118,Ryan Blue,IT,Hardware,150,Pending,Credit Card,West
+TXN-4080,2026-02-09,E119,Sarah Pink,HR,Recruitment,400,Completed,Cash,South
+TXN-4081,2026-02-10,E120,Tom Yellow,Engineering,Ads,150,Completed,Bank Transfer,East
+TXN-4082,2026-02-10,E101,Alice Johnson,Sales,Travel,1200,Failed,Credit Card,North
+TXN-4083,2026-02-11,E102,Bob Smith,IT,Software,200,Pending,Cash,West
+TXN-4084,2026-02-11,E103,Charlie Brown,HR,Training,300,Completed,Bank Transfer,South
+TXN-4085,2026-02-12,E104,David Miller,Marketing,Advertising,500,Completed,Credit Card,East
+TXN-4086,2026-02-12,E105,Eve Williams,Engineering,Hardware,100,Pending,Cash,North
+TXN-4087,2026-02-13,E106,Frank Wright,Sales,Meals,1500,Completed,Bank Transfer,West
+TXN-4088,2026-02-13,E107,Grace Lee,IT,Hardware,250,Failed,Credit Card,South
+TXN-4089,2026-02-14,E108,Henry Ford,Marketing,Travel,400,Pending,Cash,East
+TXN-4090,2026-02-14,E109,Ivy Green,HR,Recruitment,350,Completed,Bank Transfer,North
+TXN-4091,2026-02-15,E110,Jack White,Engineering,Software,900,Completed,Credit Card,West
+TXN-4092,2026-02-15,E111,Kelly Blue,Marketing,Ads,50,Pending,Cash,South
+TXN-4093,2026-02-16,E112,Liam Gold,Sales,Travel,200,Completed,Bank Transfer,East
+TXN-4094,2026-02-16,E113,Mona Silver,IT,Hardware,1300,Completed,Credit Card,North
+TXN-4095,2026-02-17,E114,Noah Black,HR,Training,450,Failed,Cash,West
+TXN-4096,2026-02-17,E115,Olivia Grey,Engineering,Travel,500,Pending,Bank Transfer,South
+TXN-4097,2026-02-18,E116,Paul Red,Marketing,Software,100,Completed,Credit Card,East
+TXN-4098,2026-02-18,E117,Quinn Rose,Sales,Meals,950,Completed,Cash,North
+TXN-4099,2026-02-19,E118,Ryan Blue,IT,Hardware,600,Pending,Bank Transfer,West
+TXN-4100,2026-02-19,E119,Sarah Pink,HR,Recruitment,150,Completed,Credit Card,South
