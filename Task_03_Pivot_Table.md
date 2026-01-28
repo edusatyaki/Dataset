@@ -52,7 +52,21 @@ The dataset contains **300+ transaction records** with the following fields:
 | SalesValue          | Measure   | Revenue                |
 
 ---
+## Sample Dataset
 
+| OrderID | Region | State         | City       | Month    | SalesRep     | ProductType   | UnitsSold | UnitPrice | SalesValue | CustomerType |
+| ------: | ------ | ------------- | ---------- | -------- | ------------ | ------------- | --------- | --------- | ---------- | ------------ |
+|   10001 | North  | Delhi         | Delhi      | Jun-2025 | Meera Patel  | Stud Earrings | 19        | 500       | 9500       | Retail       |
+|   10002 | North  | Himachal      | Shimla     | Jan-2025 | Aditya Sen   | Hoop Earrings | 7         | 850       | 5950       | Retail       |
+|   10003 | North  | Haryana       | Sonipat    | Feb-2025 | Tara Chauhan | Drop Earrings | 6         | 950       | 5700       | Retail       |
+|   10004 | West   | Maharashtra   | Pune       | Apr-2025 | Aditya Sen   | Hoop Earrings | 5         | 850       | 4250       | Retail       |
+|   10005 | West   | Gujarat       | Ahmedabad  | Mar-2025 | Saurav Roy   | Stud Earrings | 26        | 500       | 13000      | Retail       |
+|   10006 | North  | Uttar Pradesh | Lucknow    | Jan-2025 | Arjun Nair   | Hoop Earrings | 21        | 850       | 17850      | Retail       |
+|   10007 | West   | Goa           | Panaji     | Jan-2025 | Divya Singh  | Stud Earrings | 40        | 500       | 20000      | Wholesale    |
+|   10008 | East   | Jharkhand     | Jamshedpur | Feb-2025 | Rahul Singh  | Stud Earrings | 19        | 500       | 9500       | Wholesale    |
+|   10009 | North  | Haryana       | Sonipat    | Jan-2025 | Divya Singh  | Hoop Earrings | 34        | 850       | 28900      | Wholesale    |
+
+---
 # LEVEL 1 — EASY (Basics of Pivot Table)
 
 ## A. Basic Summaries
