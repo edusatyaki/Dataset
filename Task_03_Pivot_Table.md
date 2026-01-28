@@ -68,6 +68,8 @@ The dataset contains **300+ transaction records** with the following fields:
 |   10009 | North  | Haryana       | Sonipat    | Jan-2025 | Divya Singh  | Hoop Earrings | 34        | 850       | 28900      | Wholesale    |
 
 ---
+Link: https://github.com/edusatyaki/Dataset/blob/main/everlasting_earrings_sales_300_rows.csv
+
 # LEVEL 1 — EASY (Basics of Pivot Table)
 
 ## A. Basic Summaries
