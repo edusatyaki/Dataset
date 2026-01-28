@@ -1,5 +1,5 @@
-# 📊 Everlasting Earring Sales Analytics Project
-### 📘 Pivot Table, Excel & Data Analytics Practice Case Study
+# Everlasting Earring Sales Analytics Project
+### Pivot Table, Excel & Data Analytics Practice Case Study
 
 ---
 
@@ -17,7 +17,7 @@ The dataset contains **300+ transaction records** with the following fields:
 
 ---
 
-# 🧱 Dataset Column Description
+# Dataset Column Description
 
 ## Detailed Column Dictionary
 
