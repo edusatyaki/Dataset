@@ -16,6 +16,7 @@ The dataset contains **300+ transaction records** with the following fields:
 > Each row represents **one sales transaction**.
 
 ---
+![Everlasting Banner](White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 
 # Dataset Column Description
 
