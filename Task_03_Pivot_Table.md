@@ -1,3 +1,5 @@
+## Everlasting Earring Sales Dataset – Column Description Table
+
 | Column Name  | Data Type           | What it Represents                                          | Why It Is Important                                 | Example Use in Pivot / Analysis         |
 | ------------ | ------------------- | ----------------------------------------------------------- | --------------------------------------------------- | --------------------------------------- |
 | OrderID      | Identifier (Number) | Unique number for each sales transaction                    | Used to count orders and track individual records   | Count of orders per region or per month |
