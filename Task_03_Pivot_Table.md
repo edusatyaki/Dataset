@@ -13,3 +13,18 @@
 | UnitPrice    | Number (Currency)   | Price of one unit of product                                | Used to calculate revenue and pricing analysis      | Average selling price                   |
 | SalesValue   | Number (Currency)   | Total revenue of the order (UnitsSold × UnitPrice)          | Most important business metric – total sales        | Total revenue by any dimension          |
 | CustomerType | Text (Category)     | Type of customer (Retail / Wholesale)                       | Used for customer segmentation analysis             | Retail vs Wholesale revenue             |
+
+
+
+Short Version (For Quick Revision)
+| Column              | Type      | Role                   |
+| ------------------- | --------- | ---------------------- |
+| OrderID             | ID        | Transaction identifier |
+| Region, State, City | Dimension | Geography analysis     |
+| Month               | Time      | Trend analysis         |
+| SalesRep            | Dimension | Performance analysis   |
+| ProductType         | Dimension | Product analysis       |
+| CustomerType        | Dimension | Customer segmentation  |
+| UnitsSold           | Measure   | Volume                 |
+| UnitPrice           | Measure   | Price                  |
+| SalesValue          | Measure   | Revenue                |
