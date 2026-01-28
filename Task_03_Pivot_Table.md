@@ -1,4 +1,25 @@
-## Everlasting Earring Sales Dataset – Column Description Table
+# 📊 Everlasting Earring Sales Analytics Project
+### 📘 Pivot Table, Excel & Data Analytics Practice Case Study
+
+---
+
+## 📁 Dataset Overview
+
+This project uses a sales dataset of the **Everlasting** brand earrings across different regions of India.
+
+The dataset contains **300+ transaction records** with the following fields:
+
+- OrderID, Region, State, City, Month  
+- SalesRep, ProductType, UnitsSold, UnitPrice  
+- SalesValue, CustomerType  
+
+> Each row represents **one sales transaction**.
+
+---
+
+# 🧱 Dataset Column Description
+
+## 📌 Detailed Column Dictionary
 
 | Column Name  | Data Type           | What it Represents                                          | Why It Is Important                                 | Example Use in Pivot / Analysis         |
 | ------------ | ------------------- | ----------------------------------------------------------- | --------------------------------------------------- | --------------------------------------- |
@@ -14,9 +35,10 @@
 | SalesValue   | Number (Currency)   | Total revenue of the order (UnitsSold × UnitPrice)          | Most important business metric – total sales        | Total revenue by any dimension          |
 | CustomerType | Text (Category)     | Type of customer (Retail / Wholesale)                       | Used for customer segmentation analysis             | Retail vs Wholesale revenue             |
 
+---
 
+## ⚡ Short Version (For Quick Revision)
 
-## Short Version (For Quick Revision)
 | Column              | Type      | Role                   |
 | ------------------- | --------- | ---------------------- |
 | OrderID             | ID        | Transaction identifier |
@@ -29,95 +51,149 @@
 | UnitPrice           | Measure   | Price                  |
 | SalesValue          | Measure   | Revenue                |
 
+---
 
-🟢 LEVEL 1 — EASY (Basics of Pivot Table)
+# 🟢 LEVEL 1 — EASY (Basics of Pivot Table)
+
 ## A. Basic Summaries
-Find the total SalesValue for the entire dataset.
-Find the total UnitsSold.
-Find the total SalesValue by Region.
-Find the total SalesValue by Month.
-Find the total UnitsSold by ProductType.
-Find the total SalesValue by CustomerType (Retail vs Wholesale).
-Find the total SalesValue by State.
-Find the total SalesValue by City.
-Count the number of orders per Region.
-Count the number of orders per Month.
+
+1. Find the total **SalesValue** for the entire dataset  
+2. Find the total **UnitsSold**  
+3. Find the total **SalesValue by Region**  
+4. Find the total **SalesValue by Month**  
+5. Find the total **UnitsSold by ProductType**  
+6. Find the total **SalesValue by CustomerType**  
+7. Find the total **SalesValue by State**  
+8. Find the total **SalesValue by City**  
+9. Count the **number of orders per Region**  
+10. Count the **number of orders per Month**
+
+---
 
 ## B. Simple Comparisons
-Which Region has the highest SalesValue?
-Which ProductType sells the most units?
-Which Month has the highest SalesValue?
-Which CustomerType generates more revenue?
-Which State has the highest total sales?
 
-🟡 LEVEL 2 — MEDIUM (Multi-Dimensional Analysis)
+11. Which **Region** has the highest SalesValue?  
+12. Which **ProductType** sells the most units?  
+13. Which **Month** has the highest SalesValue?  
+14. Which **CustomerType** generates more revenue?  
+15. Which **State** has the highest total sales?
+
+---
+
+# 🟡 LEVEL 2 — MEDIUM (Multi-Dimensional Analysis)
+
 ## C. Cross Analysis
-Show SalesValue by Region and Month.
-Show UnitsSold by ProductType and Region.
-Show SalesValue by ProductType and CustomerType.
-Show SalesValue by State and Month.
-Show SalesValue by City and ProductType.
-Show SalesValue by SalesRep and Month.
-Show UnitsSold by Month and ProductType.
-Show SalesValue by Region and CustomerType.
-Show SalesValue by ProductType and Month.
-Show SalesValue by SalesRep and Region.
+
+16. SalesValue by Region and Month  
+17. UnitsSold by ProductType and Region  
+18. SalesValue by ProductType and CustomerType  
+19. SalesValue by State and Month  
+20. SalesValue by City and ProductType  
+21. SalesValue by SalesRep and Month  
+22. UnitsSold by Month and ProductType  
+23. SalesValue by Region and CustomerType  
+24. SalesValue by ProductType and Month  
+25. SalesValue by SalesRep and Region  
+
+---
 
 ## D. Ranking & Filtering
-Find the Top 5 Cities by SalesValue.
-Find the Top 5 States by SalesValue.
-Find the Top 5 SalesReps by SalesValue.
-Find the Bottom 5 Cities by SalesValue.
-Find the Bottom 3 States by SalesValue.
+
+26. Top 5 Cities by SalesValue  
+27. Top 5 States by SalesValue  
+28. Top 5 SalesReps by SalesValue  
+29. Bottom 5 Cities by SalesValue  
+30. Bottom 3 States by SalesValue  
+
+---
 
 ## E. Averages & Metrics
-Find the average UnitsSold per order.
-Find the average SalesValue per order.
-Find the average SalesValue by ProductType.
-Find the average UnitsSold by Region.
-Find the average SalesValue by CustomerType.
 
-🔴 LEVEL 3 — HARD (Business & Advanced Pivot Analysis)
+31. Average UnitsSold per order  
+32. Average SalesValue per order  
+33. Average SalesValue by ProductType  
+34. Average UnitsSold by Region  
+35. Average SalesValue by CustomerType  
+
+---
+
+# 🔴 LEVEL 3 — HARD (Business & Advanced Pivot Analysis)
+
 ## F. Trend & Growth Analysis
-Show month-wise SalesValue trend for each Region.
-Identify which Region shows the highest growth from Jan to Jun.
-Identify which ProductType is growing fastest month-over-month.
-Which Month shows overall highest growth compared to previous month?
-Show SalesRep performance trend over time.
+
+36. Month-wise SalesValue trend for each Region  
+37. Region with highest growth from Jan to Jun  
+38. Fastest growing ProductType month-over-month  
+39. Month with highest growth compared to previous month  
+40. SalesRep performance trend over time  
+
+---
 
 ## G. Contribution & Share Analysis
-Find % contribution of each Region to total SalesValue.
-Find % contribution of each ProductType to total SalesValue.
-Find % contribution of each Month to total SalesValue.
-Find ProductType mix % inside each Region.
-Find CustomerType mix % inside each ProductType.
+
+41. % contribution of each Region  
+42. % contribution of each ProductType  
+43. % contribution of each Month  
+44. ProductType mix % inside each Region  
+45. CustomerType mix % inside each ProductType  
+
+---
 
 ## H. Performance & Efficiency
-Which SalesRep has the highest average SalesValue per order?
-Which City has the highest average order value?
-Which State has the highest sales consistency across months?
-Which Region has the highest average SalesValue per order?
-Which ProductType has the highest revenue per unit sold?
+
+46. SalesRep with highest average order value  
+47. City with highest average order value  
+48. State with most consistent sales  
+49. Region with highest average order value  
+50. ProductType with highest revenue per unit  
+
+---
 
 ## I. Advanced Business Questions
-If management wants to focus only on top 20% revenue-generating cities, which cities should be selected?
-Which 5 SalesReps should get incentives based on performance?
-Which Region should get more marketing budget and why?
-Which ProductType should be promoted more and why?
-Which States are underperforming compared to their Region average?
 
-## BONUS — SQL / Data Engineering Style Questions
-Write a query / pivot to find duplicate cities across states.
-Create a report showing only Retail customers in South Region.
-Find months where sales dropped compared to previous month.
-Find cities where Drop Earrings sell more than Stud Earrings.
-Find regions where Wholesale contributes more than 50% revenue.
+51. Top 20% revenue-generating cities  
+52. Top 5 SalesReps for incentives  
+53. Which Region deserves more marketing budget and why  
+54. Which ProductType should be promoted more and why  
+55. Which States are underperforming vs Region average  
 
-🏆 FINAL EXAM / CAPSTONE QUESTIONS
-Build a complete management dashboard showing:
-Region-wise performance
-Product-wise performance
-Monthly trend
-Top & Bottom performers
-Give 3 business recommendations based on the data.
-Identify risk areas and growth opportunities.
+---
+
+# 🧠 BONUS — SQL / Data Engineering Style
+
+56. Find duplicate cities across states  
+57. Report of Retail customers in South Region  
+58. Months where sales dropped  
+59. Cities where Drop > Stud sales  
+60. Regions where Wholesale > 50% revenue  
+
+---
+
+# 🏆 FINAL CAPSTONE PROJECT
+
+## Build a Management Dashboard Showing:
+
+- Region-wise performance  
+- Product-wise performance  
+- Monthly trend  
+- Top & Bottom performers  
+
+---
+
+## Business Case Study
+
+61. Give **3 business recommendations**  
+62. Identify **risk areas & growth opportunities**
+
+---
+
+# 🎯 Learning Outcomes
+
+- Pivot Tables (Beginner → Advanced)  
+- Business KPI analysis  
+- Trend & growth analysis  
+- Decision making using data  
+- Real-world analytics project experience  
+
+---
+
