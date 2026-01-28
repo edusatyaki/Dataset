@@ -1,0 +1,301 @@
+OrderID,Region,State,City,Month,SalesRep,ProductType,UnitsSold,UnitPrice,SalesValue,CustomerType
+10001,North,Delhi,Delhi,Jun-2025,Meera Patel,Stud Earrings,19,500,9500,Retail
+10002,North,Himachal,Shimla,Jan-2025,Aditya Sen,Hoop Earrings,7,850,5950,Retail
+10003,North,Haryana,Sonipat,Feb-2025,Tara Chauhan,Drop Earrings,6,950,5700,Retail
+10004,West,Maharashtra,Pune,Apr-2025,Aditya Sen,Hoop Earrings,5,850,4250,Retail
+10005,West,Gujarat,Ahmedabad,Mar-2025,Saurav Roy,Stud Earrings,26,500,13000,Retail
+10006,North,Uttar Pradesh,Lucknow,Jan-2025,Arjun Nair,Hoop Earrings,21,850,17850,Retail
+10007,West,Goa,Panaji,Jan-2025,Divya Singh,Stud Earrings,40,500,20000,Wholesale
+10008,East,Jharkhand,Jamshedpur,Feb-2025,Rahul Singh,Stud Earrings,19,500,9500,Wholesale
+10009,North,Haryana,Sonipat,Jan-2025,Divya Singh,Hoop Earrings,34,850,28900,Wholesale
+10010,South,Kerala,Kochi,Mar-2025,Karthik Iyer,Drop Earrings,22,950,20900,Retail
+10011,South,Andhra Pradesh,Visakhapatnam,Jun-2025,Rohan Mehta,Stud Earrings,34,500,17000,Wholesale
+10012,East,Jharkhand,Jamshedpur,Feb-2025,Sneha Mohanty,Stud Earrings,19,500,9500,Retail
+10013,East,Odisha,Bhubaneswar,Mar-2025,Rahul Singh,Stud Earrings,25,500,12500,Retail
+10014,West,Rajasthan,Jaipur,Jun-2025,Neelam Reddy,Stud Earrings,21,500,10500,Retail
+10015,South,Andhra Pradesh,Visakhapatnam,May-2025,Meera Patel,Drop Earrings,32,950,30400,Wholesale
+10016,East,West Bengal,Siliguri,Feb-2025,Tara Chauhan,Hoop Earrings,10,850,8500,Retail
+10017,North,Haryana,Sonipat,Jun-2025,Anika Rao,Drop Earrings,32,950,30400,Retail
+10018,West,Rajasthan,Jaipur,May-2025,Neelam Reddy,Drop Earrings,21,950,19950,Retail
+10019,North,Himachal,Shimla,Mar-2025,Sneha Mohanty,Stud Earrings,23,500,11500,Wholesale
+10020,South,Telangana,Hyderabad,Jan-2025,Meera Patel,Drop Earrings,16,950,15200,Retail
+10021,East,Jharkhand,Jamshedpur,May-2025,Karthik Iyer,Stud Earrings,28,500,14000,Retail
+10022,North,Himachal,Shimla,Mar-2025,Sameer Desai,Stud Earrings,12,500,6000,Wholesale
+10023,East,West Bengal,Siliguri,Jan-2025,Rohan Mehta,Drop Earrings,10,950,9500,Retail
+10024,West,Maharashtra,Mumbai,May-2025,Saurav Roy,Stud Earrings,35,500,17500,Retail
+10025,East,Jharkhand,Jamshedpur,May-2025,Manoj Kumar,Stud Earrings,39,500,19500,Retail
+10026,East,Odisha,Bhubaneswar,Jun-2025,Arjun Nair,Hoop Earrings,38,850,32300,Wholesale
+10027,North,Haryana,Sonipat,Feb-2025,Rahul Singh,Hoop Earrings,6,850,5100,Retail
+10028,South,Karnataka,Bengaluru,Jan-2025,Neha Gupta,Stud Earrings,9,500,4500,Retail
+10029,East,West Bengal,Kolkata,May-2025,Rohan Mehta,Hoop Earrings,36,850,30600,Retail
+10030,South,Andhra Pradesh,Visakhapatnam,May-2025,Sameer Desai,Stud Earrings,35,500,17500,Wholesale
+10031,South,Karnataka,Bengaluru,Jan-2025,Manoj Kumar,Hoop Earrings,32,850,27200,Wholesale
+10032,West,Maharashtra,Mumbai,Jun-2025,Priya Das,Stud Earrings,30,500,15000,Wholesale
+10033,North,Haryana,Sonipat,Feb-2025,Karthik Iyer,Drop Earrings,33,950,31350,Retail
+10034,West,Maharashtra,Pune,Mar-2025,Neelam Reddy,Stud Earrings,9,500,4500,Wholesale
+10035,North,Delhi,Delhi,Jun-2025,Ritu Singh,Stud Earrings,10,500,5000,Retail
+10036,South,Telangana,Hyderabad,Apr-2025,Sameer Desai,Stud Earrings,30,500,15000,Retail
+10037,South,Telangana,Hyderabad,Jan-2025,Divya Singh,Hoop Earrings,34,850,28900,Wholesale
+10038,West,Goa,Panaji,Jun-2025,Sameer Desai,Stud Earrings,17,500,8500,Wholesale
+10039,South,Karnataka,Bengaluru,May-2025,Ritu Singh,Stud Earrings,25,500,12500,Retail
+10040,North,Himachal,Shimla,Apr-2025,Tara Chauhan,Drop Earrings,15,950,14250,Retail
+10041,North,Haryana,Sonipat,Jan-2025,Kavya Rao,Stud Earrings,20,500,10000,Wholesale
+10042,North,Himachal,Shimla,Feb-2025,Aditya Sen,Drop Earrings,7,950,6650,Retail
+10043,West,Goa,Panaji,May-2025,Tara Chauhan,Hoop Earrings,21,850,17850,Retail
+10044,East,West Bengal,Siliguri,Mar-2025,Divya Singh,Stud Earrings,24,500,12000,Wholesale
+10045,East,West Bengal,Kolkata,Jan-2025,Neelam Reddy,Drop Earrings,11,950,10450,Retail
+10046,South,Andhra Pradesh,Visakhapatnam,Mar-2025,Saurav Roy,Hoop Earrings,9,850,7650,Retail
+10047,East,Bihar,Patna,Feb-2025,Neelam Reddy,Drop Earrings,24,950,22800,Retail
+10048,East,West Bengal,Kolkata,Feb-2025,Meera Patel,Stud Earrings,11,500,5500,Retail
+10049,East,Bihar,Patna,May-2025,Karthik Iyer,Drop Earrings,26,950,24700,Retail
+10050,East,Jharkhand,Jamshedpur,Apr-2025,Meera Patel,Stud Earrings,10,500,5000,Wholesale
+10051,East,West Bengal,Kolkata,Jan-2025,Sneha Mohanty,Stud Earrings,21,500,10500,Retail
+10052,West,Goa,Panaji,Jun-2025,Manoj Kumar,Drop Earrings,5,950,4750,Retail
+10053,North,Haryana,Sonipat,May-2025,Neha Gupta,Hoop Earrings,40,850,34000,Retail
+10054,West,Maharashtra,Pune,Jan-2025,Akash Verma,Hoop Earrings,7,850,5950,Wholesale
+10055,South,Tamil Nadu,Chennai,Jun-2025,Priya Das,Hoop Earrings,40,850,34000,Wholesale
+10056,South,Tamil Nadu,Chennai,Feb-2025,Anika Rao,Hoop Earrings,6,850,5100,Retail
+10057,East,Odisha,Bhubaneswar,Jun-2025,Rohan Mehta,Hoop Earrings,15,850,12750,Retail
+10058,West,Maharashtra,Mumbai,Apr-2025,Rohan Mehta,Stud Earrings,34,500,17000,Wholesale
+10059,East,West Bengal,Siliguri,Feb-2025,Aman Sharma,Drop Earrings,17,950,16150,Wholesale
+10060,East,Bihar,Patna,Jan-2025,Meera Patel,Hoop Earrings,37,850,31450,Wholesale
+10061,East,West Bengal,Kolkata,Jan-2025,Meera Patel,Stud Earrings,21,500,10500,Retail
+10062,North,Himachal,Shimla,Apr-2025,Arjun Nair,Drop Earrings,25,950,23750,Wholesale
+10063,North,Uttar Pradesh,Lucknow,May-2025,Karthik Iyer,Hoop Earrings,7,850,5950,Wholesale
+10064,North,Himachal,Shimla,May-2025,Karthik Iyer,Hoop Earrings,32,850,27200,Retail
+10065,East,Jharkhand,Jamshedpur,Mar-2025,Priya Das,Drop Earrings,24,950,22800,Wholesale
+10066,West,Gujarat,Ahmedabad,Apr-2025,Akash Verma,Drop Earrings,13,950,12350,Retail
+10067,West,Rajasthan,Jaipur,Jun-2025,Anika Rao,Drop Earrings,24,950,22800,Wholesale
+10068,North,Punjab,Ludhiana,Mar-2025,Karthik Iyer,Hoop Earrings,25,850,21250,Wholesale
+10069,West,Rajasthan,Jaipur,Jun-2025,Karthik Iyer,Drop Earrings,35,950,33250,Retail
+10070,North,Punjab,Ludhiana,May-2025,Kavya Rao,Hoop Earrings,10,850,8500,Retail
+10071,East,West Bengal,Siliguri,Feb-2025,Saurav Roy,Stud Earrings,7,500,3500,Retail
+10072,West,Goa,Panaji,Jan-2025,Neelam Reddy,Hoop Earrings,17,850,14450,Wholesale
+10073,West,Rajasthan,Jaipur,Feb-2025,Saurav Roy,Drop Earrings,5,950,4750,Retail
+10074,West,Maharashtra,Pune,Feb-2025,Tara Chauhan,Hoop Earrings,8,850,6800,Retail
+10075,North,Uttar Pradesh,Lucknow,Feb-2025,Neelam Reddy,Drop Earrings,38,950,36100,Wholesale
+10076,West,Goa,Panaji,Jun-2025,Tara Chauhan,Hoop Earrings,40,850,34000,Wholesale
+10077,South,Telangana,Hyderabad,Apr-2025,Meera Patel,Stud Earrings,22,500,11000,Wholesale
+10078,South,Kerala,Kochi,Apr-2025,Rahul Singh,Drop Earrings,23,950,21850,Retail
+10079,East,Bihar,Patna,Mar-2025,Ritu Singh,Stud Earrings,13,500,6500,Retail
+10080,South,Telangana,Hyderabad,Jun-2025,Saurav Roy,Drop Earrings,18,950,17100,Retail
+10081,West,Rajasthan,Jaipur,Mar-2025,Ritu Singh,Hoop Earrings,31,850,26350,Retail
+10082,South,Telangana,Hyderabad,Apr-2025,Aditya Sen,Drop Earrings,6,950,5700,Wholesale
+10083,West,Maharashtra,Mumbai,Mar-2025,Akash Verma,Hoop Earrings,31,850,26350,Retail
+10084,West,Maharashtra,Pune,Mar-2025,Manoj Kumar,Hoop Earrings,6,850,5100,Wholesale
+10085,East,Odisha,Bhubaneswar,Jun-2025,Anika Rao,Hoop Earrings,13,850,11050,Retail
+10086,West,Goa,Panaji,May-2025,Aman Sharma,Stud Earrings,32,500,16000,Retail
+10087,West,Maharashtra,Pune,Jan-2025,Meera Patel,Hoop Earrings,25,850,21250,Retail
+10088,West,Gujarat,Ahmedabad,Mar-2025,Divya Singh,Hoop Earrings,31,850,26350,Wholesale
+10089,North,Uttar Pradesh,Lucknow,Jan-2025,Ritu Singh,Stud Earrings,27,500,13500,Retail
+10090,North,Delhi,Delhi,Jan-2025,Rohan Mehta,Stud Earrings,6,500,3000,Retail
+10091,South,Tamil Nadu,Chennai,Apr-2025,Priya Das,Drop Earrings,18,950,17100,Wholesale
+10092,East,Bihar,Patna,Feb-2025,Kavya Rao,Drop Earrings,12,950,11400,Retail
+10093,East,West Bengal,Kolkata,May-2025,Aman Sharma,Hoop Earrings,29,850,24650,Wholesale
+10094,South,Karnataka,Bengaluru,May-2025,Rohan Mehta,Stud Earrings,24,500,12000,Retail
+10095,North,Punjab,Ludhiana,May-2025,Manoj Kumar,Drop Earrings,28,950,26600,Retail
+10096,East,West Bengal,Kolkata,Apr-2025,Sameer Desai,Stud Earrings,32,500,16000,Wholesale
+10097,West,Maharashtra,Pune,Apr-2025,Anika Rao,Drop Earrings,38,950,36100,Wholesale
+10098,West,Rajasthan,Jaipur,Apr-2025,Aditya Sen,Hoop Earrings,25,850,21250,Retail
+10099,North,Punjab,Ludhiana,Apr-2025,Rohan Mehta,Hoop Earrings,29,850,24650,Wholesale
+10100,North,Uttar Pradesh,Lucknow,Mar-2025,Anika Rao,Hoop Earrings,18,850,15300,Wholesale
+10101,East,Bihar,Patna,Mar-2025,Kavya Rao,Drop Earrings,22,950,20900,Retail
+10102,South,Karnataka,Bengaluru,Feb-2025,Manoj Kumar,Hoop Earrings,40,850,34000,Retail
+10103,West,Rajasthan,Jaipur,Apr-2025,Aman Sharma,Stud Earrings,23,500,11500,Retail
+10104,West,Maharashtra,Pune,Mar-2025,Aditya Sen,Hoop Earrings,35,850,29750,Wholesale
+10105,West,Goa,Panaji,Mar-2025,Arjun Nair,Drop Earrings,34,950,32300,Wholesale
+10106,East,Bihar,Patna,Feb-2025,Priya Das,Drop Earrings,17,950,16150,Wholesale
+10107,North,Himachal,Shimla,Jun-2025,Anika Rao,Stud Earrings,18,500,9000,Wholesale
+10108,East,Jharkhand,Jamshedpur,May-2025,Kavya Rao,Hoop Earrings,11,850,9350,Retail
+10109,East,West Bengal,Siliguri,Mar-2025,Anika Rao,Hoop Earrings,5,850,4250,Retail
+10110,East,West Bengal,Kolkata,Jan-2025,Ritu Singh,Hoop Earrings,13,850,11050,Wholesale
+10111,North,Delhi,Delhi,May-2025,Akash Verma,Hoop Earrings,35,850,29750,Wholesale
+10112,East,West Bengal,Siliguri,Jan-2025,Meera Patel,Hoop Earrings,12,850,10200,Retail
+10113,West,Rajasthan,Jaipur,Jan-2025,Aditya Sen,Drop Earrings,8,950,7600,Retail
+10114,South,Andhra Pradesh,Visakhapatnam,Mar-2025,Rahul Singh,Stud Earrings,12,500,6000,Wholesale
+10115,South,Andhra Pradesh,Visakhapatnam,Apr-2025,Neelam Reddy,Hoop Earrings,24,850,20400,Wholesale
+10116,East,Jharkhand,Jamshedpur,May-2025,Neha Gupta,Drop Earrings,11,950,10450,Retail
+10117,South,Kerala,Kochi,Jun-2025,Rahul Singh,Stud Earrings,20,500,10000,Retail
+10118,North,Haryana,Sonipat,Jan-2025,Manoj Kumar,Hoop Earrings,35,850,29750,Wholesale
+10119,North,Haryana,Sonipat,Mar-2025,Akash Verma,Drop Earrings,34,950,32300,Retail
+10120,South,Kerala,Kochi,Jun-2025,Aditya Sen,Drop Earrings,17,950,16150,Wholesale
+10121,North,Himachal,Shimla,Feb-2025,Saurav Roy,Hoop Earrings,14,850,11900,Retail
+10122,North,Haryana,Sonipat,Mar-2025,Kavya Rao,Drop Earrings,23,950,21850,Wholesale
+10123,North,Uttar Pradesh,Lucknow,Jun-2025,Akash Verma,Drop Earrings,30,950,28500,Wholesale
+10124,West,Rajasthan,Jaipur,Jan-2025,Kavya Rao,Stud Earrings,32,500,16000,Wholesale
+10125,East,West Bengal,Kolkata,Jan-2025,Rohan Mehta,Drop Earrings,6,950,5700,Wholesale
+10126,North,Haryana,Sonipat,Apr-2025,Tara Chauhan,Drop Earrings,33,950,31350,Wholesale
+10127,South,Andhra Pradesh,Visakhapatnam,Apr-2025,Sameer Desai,Stud Earrings,35,500,17500,Wholesale
+10128,West,Gujarat,Ahmedabad,Mar-2025,Priya Das,Stud Earrings,26,500,13000,Wholesale
+10129,West,Gujarat,Ahmedabad,Jun-2025,Divya Singh,Drop Earrings,7,950,6650,Wholesale
+10130,North,Punjab,Ludhiana,Mar-2025,Sneha Mohanty,Stud Earrings,30,500,15000,Retail
+10131,West,Rajasthan,Jaipur,Jan-2025,Karthik Iyer,Drop Earrings,28,950,26600,Wholesale
+10132,West,Maharashtra,Mumbai,Feb-2025,Meera Patel,Drop Earrings,13,950,12350,Wholesale
+10133,West,Rajasthan,Jaipur,Jan-2025,Aman Sharma,Drop Earrings,20,950,19000,Retail
+10134,East,Jharkhand,Jamshedpur,Jan-2025,Ritu Singh,Hoop Earrings,10,850,8500,Retail
+10135,North,Uttar Pradesh,Lucknow,Jan-2025,Saurav Roy,Hoop Earrings,23,850,19550,Wholesale
+10136,West,Rajasthan,Jaipur,Apr-2025,Rohan Mehta,Hoop Earrings,40,850,34000,Retail
+10137,West,Maharashtra,Pune,May-2025,Tara Chauhan,Drop Earrings,13,950,12350,Retail
+10138,East,Odisha,Bhubaneswar,Mar-2025,Tara Chauhan,Hoop Earrings,5,850,4250,Wholesale
+10139,East,Jharkhand,Jamshedpur,May-2025,Sameer Desai,Stud Earrings,33,500,16500,Wholesale
+10140,East,Bihar,Patna,May-2025,Ritu Singh,Hoop Earrings,34,850,28900,Wholesale
+10141,South,Tamil Nadu,Chennai,May-2025,Divya Singh,Stud Earrings,31,500,15500,Retail
+10142,East,Odisha,Bhubaneswar,Jun-2025,Divya Singh,Hoop Earrings,14,850,11900,Wholesale
+10143,North,Haryana,Sonipat,May-2025,Aditya Sen,Hoop Earrings,11,850,9350,Wholesale
+10144,North,Himachal,Shimla,Apr-2025,Aman Sharma,Drop Earrings,14,950,13300,Wholesale
+10145,South,Karnataka,Bengaluru,Apr-2025,Meera Patel,Hoop Earrings,30,850,25500,Retail
+10146,East,Jharkhand,Jamshedpur,Apr-2025,Sneha Mohanty,Drop Earrings,36,950,34200,Retail
+10147,North,Haryana,Sonipat,Jun-2025,Akash Verma,Stud Earrings,10,500,5000,Wholesale
+10148,North,Delhi,Delhi,Apr-2025,Anika Rao,Drop Earrings,24,950,22800,Retail
+10149,North,Punjab,Ludhiana,Jan-2025,Akash Verma,Hoop Earrings,28,850,23800,Wholesale
+10150,South,Tamil Nadu,Chennai,May-2025,Manoj Kumar,Drop Earrings,16,950,15200,Retail
+10151,South,Karnataka,Bengaluru,May-2025,Divya Singh,Drop Earrings,20,950,19000,Wholesale
+10152,South,Tamil Nadu,Chennai,Apr-2025,Meera Patel,Hoop Earrings,21,850,17850,Retail
+10153,West,Gujarat,Ahmedabad,Jun-2025,Ritu Singh,Stud Earrings,9,500,4500,Wholesale
+10154,East,Jharkhand,Jamshedpur,Mar-2025,Manoj Kumar,Drop Earrings,21,950,19950,Wholesale
+10155,East,West Bengal,Siliguri,Apr-2025,Sameer Desai,Stud Earrings,20,500,10000,Wholesale
+10156,East,Jharkhand,Jamshedpur,Mar-2025,Akash Verma,Stud Earrings,30,500,15000,Wholesale
+10157,North,Himachal,Shimla,Jun-2025,Neha Gupta,Drop Earrings,36,950,34200,Wholesale
+10158,South,Andhra Pradesh,Visakhapatnam,Mar-2025,Rohan Mehta,Drop Earrings,17,950,16150,Wholesale
+10159,South,Karnataka,Bengaluru,Jun-2025,Neha Gupta,Hoop Earrings,33,850,28050,Retail
+10160,East,West Bengal,Siliguri,Jan-2025,Akash Verma,Hoop Earrings,31,850,26350,Retail
+10161,South,Tamil Nadu,Chennai,May-2025,Arjun Nair,Drop Earrings,37,950,35150,Wholesale
+10162,South,Kerala,Kochi,Apr-2025,Akash Verma,Drop Earrings,26,950,24700,Retail
+10163,West,Maharashtra,Mumbai,Feb-2025,Rohan Mehta,Drop Earrings,30,950,28500,Wholesale
+10164,North,Uttar Pradesh,Lucknow,Jan-2025,Meera Patel,Drop Earrings,12,950,11400,Wholesale
+10165,East,Bihar,Patna,May-2025,Divya Singh,Drop Earrings,28,950,26600,Retail
+10166,South,Telangana,Hyderabad,Jan-2025,Kavya Rao,Drop Earrings,25,950,23750,Retail
+10167,North,Uttar Pradesh,Lucknow,Jun-2025,Akash Verma,Drop Earrings,31,950,29450,Retail
+10168,South,Karnataka,Bengaluru,Jan-2025,Akash Verma,Hoop Earrings,12,850,10200,Retail
+10169,South,Andhra Pradesh,Visakhapatnam,Feb-2025,Divya Singh,Hoop Earrings,28,850,23800,Wholesale
+10170,South,Telangana,Hyderabad,Jun-2025,Priya Das,Hoop Earrings,31,850,26350,Wholesale
+10171,North,Punjab,Ludhiana,Feb-2025,Neelam Reddy,Hoop Earrings,20,850,17000,Wholesale
+10172,North,Punjab,Ludhiana,May-2025,Arjun Nair,Stud Earrings,30,500,15000,Wholesale
+10173,South,Karnataka,Bengaluru,Apr-2025,Rahul Singh,Drop Earrings,18,950,17100,Retail
+10174,North,Punjab,Ludhiana,Feb-2025,Saurav Roy,Drop Earrings,18,950,17100,Retail
+10175,South,Andhra Pradesh,Visakhapatnam,Feb-2025,Rohan Mehta,Hoop Earrings,14,850,11900,Retail
+10176,East,West Bengal,Siliguri,Feb-2025,Ritu Singh,Hoop Earrings,16,850,13600,Retail
+10177,North,Haryana,Sonipat,Jan-2025,Arjun Nair,Stud Earrings,25,500,12500,Retail
+10178,South,Kerala,Kochi,Jan-2025,Saurav Roy,Drop Earrings,31,950,29450,Retail
+10179,North,Uttar Pradesh,Lucknow,Apr-2025,Arjun Nair,Drop Earrings,11,950,10450,Wholesale
+10180,South,Andhra Pradesh,Visakhapatnam,Jan-2025,Tara Chauhan,Hoop Earrings,34,850,28900,Retail
+10181,North,Uttar Pradesh,Lucknow,Apr-2025,Manoj Kumar,Drop Earrings,11,950,10450,Wholesale
+10182,West,Maharashtra,Mumbai,Jan-2025,Sneha Mohanty,Drop Earrings,14,950,13300,Retail
+10183,South,Kerala,Kochi,May-2025,Aditya Sen,Drop Earrings,25,950,23750,Wholesale
+10184,East,Odisha,Bhubaneswar,May-2025,Kavya Rao,Hoop Earrings,11,850,9350,Retail
+10185,South,Telangana,Hyderabad,Apr-2025,Rohan Mehta,Hoop Earrings,26,850,22100,Wholesale
+10186,West,Rajasthan,Jaipur,Jun-2025,Priya Das,Hoop Earrings,32,850,27200,Wholesale
+10187,East,Bihar,Patna,Feb-2025,Sameer Desai,Stud Earrings,10,500,5000,Retail
+10188,North,Uttar Pradesh,Lucknow,Jan-2025,Arjun Nair,Stud Earrings,40,500,20000,Retail
+10189,East,West Bengal,Kolkata,Apr-2025,Arjun Nair,Drop Earrings,32,950,30400,Retail
+10190,East,Jharkhand,Jamshedpur,Mar-2025,Arjun Nair,Stud Earrings,37,500,18500,Retail
+10191,South,Telangana,Hyderabad,Feb-2025,Priya Das,Hoop Earrings,40,850,34000,Wholesale
+10192,North,Punjab,Ludhiana,May-2025,Rohan Mehta,Hoop Earrings,40,850,34000,Retail
+10193,East,West Bengal,Kolkata,Feb-2025,Meera Patel,Drop Earrings,24,950,22800,Wholesale
+10194,East,West Bengal,Kolkata,Feb-2025,Saurav Roy,Drop Earrings,30,950,28500,Retail
+10195,South,Karnataka,Bengaluru,Jan-2025,Tara Chauhan,Stud Earrings,29,500,14500,Wholesale
+10196,West,Gujarat,Ahmedabad,Feb-2025,Arjun Nair,Hoop Earrings,25,850,21250,Retail
+10197,North,Haryana,Sonipat,Feb-2025,Kavya Rao,Stud Earrings,10,500,5000,Wholesale
+10198,West,Rajasthan,Jaipur,Apr-2025,Kavya Rao,Hoop Earrings,31,850,26350,Wholesale
+10199,South,Andhra Pradesh,Visakhapatnam,Jan-2025,Arjun Nair,Hoop Earrings,12,850,10200,Wholesale
+10200,West,Goa,Panaji,Jun-2025,Akash Verma,Stud Earrings,19,500,9500,Wholesale
+10201,North,Delhi,Delhi,Feb-2025,Akash Verma,Stud Earrings,13,500,6500,Wholesale
+10202,East,Bihar,Patna,Jan-2025,Aman Sharma,Hoop Earrings,32,850,27200,Retail
+10203,South,Telangana,Hyderabad,May-2025,Rohan Mehta,Drop Earrings,40,950,38000,Wholesale
+10204,North,Uttar Pradesh,Lucknow,Jun-2025,Neha Gupta,Hoop Earrings,6,850,5100,Wholesale
+10205,North,Punjab,Ludhiana,May-2025,Manoj Kumar,Drop Earrings,30,950,28500,Wholesale
+10206,East,West Bengal,Kolkata,Apr-2025,Aman Sharma,Hoop Earrings,15,850,12750,Wholesale
+10207,East,West Bengal,Kolkata,Apr-2025,Priya Das,Stud Earrings,32,500,16000,Wholesale
+10208,North,Uttar Pradesh,Lucknow,Mar-2025,Sneha Mohanty,Stud Earrings,26,500,13000,Retail
+10209,North,Himachal,Shimla,Jun-2025,Priya Das,Drop Earrings,37,950,35150,Retail
+10210,East,Bihar,Patna,Jun-2025,Saurav Roy,Stud Earrings,11,500,5500,Retail
+10211,East,West Bengal,Siliguri,Feb-2025,Kavya Rao,Stud Earrings,9,500,4500,Retail
+10212,West,Rajasthan,Jaipur,May-2025,Aditya Sen,Hoop Earrings,25,850,21250,Wholesale
+10213,South,Telangana,Hyderabad,Jan-2025,Sameer Desai,Hoop Earrings,24,850,20400,Wholesale
+10214,North,Punjab,Ludhiana,May-2025,Rahul Singh,Hoop Earrings,34,850,28900,Wholesale
+10215,North,Delhi,Delhi,Mar-2025,Akash Verma,Stud Earrings,10,500,5000,Wholesale
+10216,West,Goa,Panaji,May-2025,Neha Gupta,Hoop Earrings,17,850,14450,Wholesale
+10217,West,Goa,Panaji,Feb-2025,Neha Gupta,Hoop Earrings,11,850,9350,Wholesale
+10218,North,Himachal,Shimla,Jun-2025,Anika Rao,Stud Earrings,20,500,10000,Wholesale
+10219,West,Goa,Panaji,May-2025,Kavya Rao,Stud Earrings,28,500,14000,Wholesale
+10220,East,Odisha,Bhubaneswar,Apr-2025,Sneha Mohanty,Drop Earrings,8,950,7600,Wholesale
+10221,North,Punjab,Ludhiana,Jan-2025,Ritu Singh,Drop Earrings,29,950,27550,Wholesale
+10222,East,Jharkhand,Jamshedpur,Feb-2025,Sneha Mohanty,Stud Earrings,14,500,7000,Wholesale
+10223,East,Odisha,Bhubaneswar,Feb-2025,Kavya Rao,Drop Earrings,10,950,9500,Wholesale
+10224,West,Gujarat,Ahmedabad,Feb-2025,Tara Chauhan,Stud Earrings,32,500,16000,Wholesale
+10225,North,Punjab,Ludhiana,Mar-2025,Anika Rao,Stud Earrings,26,500,13000,Wholesale
+10226,South,Tamil Nadu,Chennai,Feb-2025,Saurav Roy,Stud Earrings,23,500,11500,Retail
+10227,North,Punjab,Ludhiana,May-2025,Saurav Roy,Drop Earrings,29,950,27550,Retail
+10228,South,Tamil Nadu,Chennai,Jun-2025,Kavya Rao,Stud Earrings,33,500,16500,Retail
+10229,West,Gujarat,Ahmedabad,Jun-2025,Rohan Mehta,Hoop Earrings,23,850,19550,Wholesale
+10230,South,Andhra Pradesh,Visakhapatnam,Feb-2025,Akash Verma,Hoop Earrings,17,850,14450,Wholesale
+10231,West,Rajasthan,Jaipur,Mar-2025,Divya Singh,Drop Earrings,38,950,36100,Wholesale
+10232,South,Tamil Nadu,Chennai,May-2025,Saurav Roy,Hoop Earrings,8,850,6800,Wholesale
+10233,East,Jharkhand,Jamshedpur,Jan-2025,Tara Chauhan,Stud Earrings,23,500,11500,Retail
+10234,South,Kerala,Kochi,Apr-2025,Tara Chauhan,Stud Earrings,32,500,16000,Retail
+10235,South,Telangana,Hyderabad,Mar-2025,Aman Sharma,Hoop Earrings,8,850,6800,Wholesale
+10236,East,West Bengal,Siliguri,Apr-2025,Rahul Singh,Hoop Earrings,19,850,16150,Retail
+10237,East,West Bengal,Kolkata,Jun-2025,Sneha Mohanty,Stud Earrings,13,500,6500,Retail
+10238,East,Odisha,Bhubaneswar,Jun-2025,Saurav Roy,Drop Earrings,35,950,33250,Wholesale
+10239,North,Delhi,Delhi,Jan-2025,Meera Patel,Stud Earrings,14,500,7000,Wholesale
+10240,North,Punjab,Ludhiana,Feb-2025,Akash Verma,Stud Earrings,8,500,4000,Retail
+10241,West,Goa,Panaji,Apr-2025,Rahul Singh,Stud Earrings,36,500,18000,Retail
+10242,South,Tamil Nadu,Chennai,Mar-2025,Manoj Kumar,Stud Earrings,27,500,13500,Retail
+10243,West,Maharashtra,Pune,Jun-2025,Rahul Singh,Drop Earrings,28,950,26600,Retail
+10244,North,Uttar Pradesh,Lucknow,Apr-2025,Neha Gupta,Drop Earrings,29,950,27550,Wholesale
+10245,East,West Bengal,Kolkata,Mar-2025,Rahul Singh,Hoop Earrings,20,850,17000,Retail
+10246,East,West Bengal,Siliguri,Jan-2025,Arjun Nair,Drop Earrings,26,950,24700,Retail
+10247,West,Rajasthan,Jaipur,Jun-2025,Anika Rao,Stud Earrings,9,500,4500,Wholesale
+10248,North,Punjab,Ludhiana,Feb-2025,Neha Gupta,Stud Earrings,7,500,3500,Wholesale
+10249,East,Jharkhand,Jamshedpur,Apr-2025,Ritu Singh,Hoop Earrings,21,850,17850,Retail
+10250,South,Kerala,Kochi,Mar-2025,Neha Gupta,Drop Earrings,26,950,24700,Wholesale
+10251,North,Punjab,Ludhiana,Apr-2025,Divya Singh,Drop Earrings,33,950,31350,Wholesale
+10252,East,West Bengal,Siliguri,Apr-2025,Sameer Desai,Hoop Earrings,38,850,32300,Wholesale
+10253,North,Uttar Pradesh,Lucknow,Jan-2025,Manoj Kumar,Drop Earrings,16,950,15200,Wholesale
+10254,East,West Bengal,Kolkata,Jan-2025,Sneha Mohanty,Drop Earrings,23,950,21850,Wholesale
+10255,West,Goa,Panaji,Jun-2025,Manoj Kumar,Stud Earrings,33,500,16500,Wholesale
+10256,West,Maharashtra,Mumbai,Jun-2025,Arjun Nair,Drop Earrings,32,950,30400,Wholesale
+10257,North,Delhi,Delhi,Jun-2025,Divya Singh,Hoop Earrings,37,850,31450,Retail
+10258,North,Haryana,Sonipat,May-2025,Neelam Reddy,Stud Earrings,13,500,6500,Retail
+10259,South,Kerala,Kochi,Mar-2025,Divya Singh,Drop Earrings,7,950,6650,Retail
+10260,West,Gujarat,Ahmedabad,Mar-2025,Neelam Reddy,Stud Earrings,13,500,6500,Wholesale
+10261,West,Gujarat,Ahmedabad,Jun-2025,Meera Patel,Stud Earrings,12,500,6000,Retail
+10262,South,Telangana,Hyderabad,May-2025,Divya Singh,Drop Earrings,12,950,11400,Wholesale
+10263,East,Odisha,Bhubaneswar,Feb-2025,Kavya Rao,Hoop Earrings,36,850,30600,Retail
+10264,North,Haryana,Sonipat,Jan-2025,Neelam Reddy,Stud Earrings,33,500,16500,Retail
+10265,East,Bihar,Patna,Jun-2025,Rahul Singh,Drop Earrings,39,950,37050,Wholesale
+10266,East,West Bengal,Siliguri,Jun-2025,Anika Rao,Hoop Earrings,37,850,31450,Retail
+10267,North,Haryana,Sonipat,Feb-2025,Rohan Mehta,Hoop Earrings,6,850,5100,Wholesale
+10268,East,Odisha,Bhubaneswar,May-2025,Saurav Roy,Drop Earrings,10,950,9500,Retail
+10269,East,Odisha,Bhubaneswar,Jun-2025,Sameer Desai,Drop Earrings,31,950,29450,Wholesale
+10270,North,Haryana,Sonipat,Mar-2025,Rahul Singh,Hoop Earrings,34,850,28900,Wholesale
+10271,South,Andhra Pradesh,Visakhapatnam,Jun-2025,Aditya Sen,Stud Earrings,13,500,6500,Wholesale
+10272,North,Delhi,Delhi,May-2025,Saurav Roy,Hoop Earrings,15,850,12750,Retail
+10273,East,West Bengal,Siliguri,Mar-2025,Tara Chauhan,Hoop Earrings,10,850,8500,Wholesale
+10274,South,Andhra Pradesh,Visakhapatnam,Mar-2025,Saurav Roy,Drop Earrings,24,950,22800,Retail
+10275,South,Andhra Pradesh,Visakhapatnam,May-2025,Saurav Roy,Stud Earrings,26,500,13000,Retail
+10276,North,Delhi,Delhi,Jan-2025,Aditya Sen,Hoop Earrings,18,850,15300,Wholesale
+10277,North,Uttar Pradesh,Lucknow,Jun-2025,Ritu Singh,Hoop Earrings,24,850,20400,Wholesale
+10278,South,Telangana,Hyderabad,Mar-2025,Neelam Reddy,Stud Earrings,8,500,4000,Retail
+10279,West,Rajasthan,Jaipur,Apr-2025,Neelam Reddy,Stud Earrings,26,500,13000,Retail
+10280,East,Bihar,Patna,Jun-2025,Arjun Nair,Hoop Earrings,13,850,11050,Wholesale
+10281,North,Punjab,Ludhiana,Feb-2025,Neelam Reddy,Stud Earrings,22,500,11000,Wholesale
+10282,South,Tamil Nadu,Chennai,Jan-2025,Neha Gupta,Hoop Earrings,29,850,24650,Wholesale
+10283,South,Tamil Nadu,Chennai,Mar-2025,Aditya Sen,Drop Earrings,25,950,23750,Retail
+10284,South,Telangana,Hyderabad,May-2025,Neelam Reddy,Hoop Earrings,24,850,20400,Wholesale
+10285,North,Delhi,Delhi,Apr-2025,Tara Chauhan,Hoop Earrings,20,850,17000,Retail
+10286,East,West Bengal,Kolkata,Jan-2025,Akash Verma,Hoop Earrings,35,850,29750,Wholesale
+10287,North,Delhi,Delhi,Apr-2025,Saurav Roy,Hoop Earrings,28,850,23800,Wholesale
+10288,East,West Bengal,Kolkata,Apr-2025,Neha Gupta,Drop Earrings,40,950,38000,Retail
+10289,East,Jharkhand,Jamshedpur,Mar-2025,Rahul Singh,Hoop Earrings,37,850,31450,Wholesale
+10290,East,Jharkhand,Jamshedpur,Jun-2025,Kavya Rao,Stud Earrings,13,500,6500,Retail
+10291,West,Gujarat,Ahmedabad,Mar-2025,Ritu Singh,Hoop Earrings,14,850,11900,Retail
+10292,West,Goa,Panaji,Jan-2025,Neha Gupta,Stud Earrings,13,500,6500,Wholesale
+10293,West,Goa,Panaji,Apr-2025,Saurav Roy,Drop Earrings,37,950,35150,Retail
+10294,East,Jharkhand,Jamshedpur,Mar-2025,Anika Rao,Hoop Earrings,24,850,20400,Wholesale
+10295,West,Goa,Panaji,Mar-2025,Sameer Desai,Stud Earrings,28,500,14000,Wholesale
+10296,North,Uttar Pradesh,Lucknow,May-2025,Akash Verma,Drop Earrings,6,950,5700,Wholesale
+10297,East,Jharkhand,Jamshedpur,May-2025,Rohan Mehta,Drop Earrings,8,950,7600,Wholesale
+10298,South,Andhra Pradesh,Visakhapatnam,Jun-2025,Kavya Rao,Hoop Earrings,14,850,11900,Retail
+10299,North,Himachal,Shimla,Jun-2025,Priya Das,Stud Earrings,6,500,3000,Wholesale
+10300,East,Odisha,Bhubaneswar,Feb-2025,Manoj Kumar,Drop Earrings,18,950,17100,Wholesale
