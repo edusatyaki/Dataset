@@ -19,7 +19,7 @@ The dataset contains **300+ transaction records** with the following fields:
 
 # 🧱 Dataset Column Description
 
-## 📌 Detailed Column Dictionary
+## Detailed Column Dictionary
 
 | Column Name  | Data Type           | What it Represents                                          | Why It Is Important                                 | Example Use in Pivot / Analysis         |
 | ------------ | ------------------- | ----------------------------------------------------------- | --------------------------------------------------- | --------------------------------------- |
@@ -37,7 +37,7 @@ The dataset contains **300+ transaction records** with the following fields:
 
 ---
 
-## ⚡ Short Version (For Quick Revision)
+## Short Version (For Quick Revision)
 
 | Column              | Type      | Role                   |
 | ------------------- | --------- | ---------------------- |
@@ -53,7 +53,7 @@ The dataset contains **300+ transaction records** with the following fields:
 
 ---
 
-# 🟢 LEVEL 1 — EASY (Basics of Pivot Table)
+# LEVEL 1 — EASY (Basics of Pivot Table)
 
 ## A. Basic Summaries
 
@@ -80,7 +80,7 @@ The dataset contains **300+ transaction records** with the following fields:
 
 ---
 
-# 🟡 LEVEL 2 — MEDIUM (Multi-Dimensional Analysis)
+# LEVEL 2 — MEDIUM (Multi-Dimensional Analysis)
 
 ## C. Cross Analysis
 
@@ -117,7 +117,7 @@ The dataset contains **300+ transaction records** with the following fields:
 
 ---
 
-# 🔴 LEVEL 3 — HARD (Business & Advanced Pivot Analysis)
+# LEVEL 3 — HARD (Business & Advanced Pivot Analysis)
 
 ## F. Trend & Growth Analysis
 
@@ -159,7 +159,7 @@ The dataset contains **300+ transaction records** with the following fields:
 
 ---
 
-# 🧠 BONUS — SQL / Data Engineering Style
+# BONUS — SQL / Data Engineering Style
 
 56. Find duplicate cities across states  
 57. Report of Retail customers in South Region  
@@ -169,7 +169,7 @@ The dataset contains **300+ transaction records** with the following fields:
 
 ---
 
-# 🏆 FINAL CAPSTONE PROJECT
+# FINAL CAPSTONE PROJECT
 
 ## Build a Management Dashboard Showing:
 
@@ -187,7 +187,7 @@ The dataset contains **300+ transaction records** with the following fields:
 
 ---
 
-# 🎯 Learning Outcomes
+# Learning Outcomes
 
 - Pivot Tables (Beginner → Advanced)  
 - Business KPI analysis  
