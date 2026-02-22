@@ -1,0 +1,101 @@
+Customer_ID,Age,Gender,Health_Concern,Sugar_Calorie_Concern,Purchase_Interest,Review_Text
+C001,34,F,High,Yes,No,Too much sugar
+C002,29,M,Medium,N/A,Yes,Occasional drink
+C003,,F,High,Yes,No,Calories are high
+C004,41,M,unknown,Yes,No,Avoid sugary drinks
+C005,19,F,Low,None,Yes,Taste is great
+C006,55,M,High,Yes,No,Doctor advised against sugar
+C007,38,F,Medium,No,Yes,I like it sometimes
+C008,22,M,,None,Yes,Cool drink
+C009,27,F,High,Yes,No,Health conscious
+C010,25,M,Low,None,Yes,Love Coke refreshing
+C011,34,F,High,Yes,No,Too much sugar
+C012,29,M,Medium,N/A,Yes,Occasional drink
+C013,,F,High,Yes,No,Calories are high
+C014,41,M,unknown,Yes,No,Avoid sugary drinks
+C015,19,F,Low,None,Yes,Taste is great
+C016,55,M,High,Yes,No,Doctor advised against sugar
+C017,38,F,Medium,No,Yes,I like it sometimes
+C018,22,M,,None,Yes,Cool drink
+C019,27,F,High,Yes,No,Health conscious
+C020,25,M,Low,None,Yes,Love Coke refreshing
+C021,34,F,High,Yes,No,Too much sugar
+C022,29,M,Medium,N/A,Yes,Occasional drink
+C023,,F,High,Yes,No,Calories are high
+C024,41,M,unknown,Yes,No,Avoid sugary drinks
+C025,19,F,Low,None,Yes,Taste is great
+C026,55,M,High,Yes,No,Doctor advised against sugar
+C027,38,F,Medium,No,Yes,I like it sometimes
+C028,22,M,,None,Yes,Cool drink
+C029,27,F,High,Yes,No,Health conscious
+C030,25,M,Low,None,Yes,Love Coke refreshing
+C031,34,F,High,Yes,No,Too much sugar
+C032,29,M,Medium,N/A,Yes,Occasional drink
+C033,,F,High,Yes,No,Calories are high
+C034,41,M,unknown,Yes,No,Avoid sugary drinks
+C035,19,F,Low,None,Yes,Taste is great
+C036,55,M,High,Yes,No,Doctor advised against sugar
+C037,38,F,Medium,No,Yes,I like it sometimes
+C038,22,M,,None,Yes,Cool drink
+C039,27,F,High,Yes,No,Health conscious
+C040,25,M,Low,None,Yes,Love Coke refreshing
+C041,34,F,High,Yes,No,Too much sugar
+C042,29,M,Medium,N/A,Yes,Occasional drink
+C043,,F,High,Yes,No,Calories are high
+C044,41,M,unknown,Yes,No,Avoid sugary drinks
+C045,19,F,Low,None,Yes,Taste is great
+C046,55,M,High,Yes,No,Doctor advised against sugar
+C047,38,F,Medium,No,Yes,I like it sometimes
+C048,22,M,,None,Yes,Cool drink
+C049,27,F,High,Yes,No,Health conscious
+C050,25,M,Low,None,Yes,Love Coke refreshing
+C051,34,F,High,Yes,No,Too much sugar
+C052,29,M,Medium,N/A,Yes,Occasional drink
+C053,,F,High,Yes,No,Calories are high
+C054,41,M,unknown,Yes,No,Avoid sugary drinks
+C055,19,F,Low,None,Yes,Taste is great
+C056,55,M,High,Yes,No,Doctor advised against sugar
+C057,38,F,Medium,No,Yes,I like it sometimes
+C058,22,M,,None,Yes,Cool drink
+C059,27,F,High,Yes,No,Health conscious
+C060,25,M,Low,None,Yes,Love Coke refreshing
+C061,34,F,High,Yes,No,Too much sugar
+C062,29,M,Medium,N/A,Yes,Occasional drink
+C063,,F,High,Yes,No,Calories are high
+C064,41,M,unknown,Yes,No,Avoid sugary drinks
+C065,19,F,Low,None,Yes,Taste is great
+C066,55,M,High,Yes,No,Doctor advised against sugar
+C067,38,F,Medium,No,Yes,I like it sometimes
+C068,22,M,,None,Yes,Cool drink
+C069,27,F,High,Yes,No,Health conscious
+C070,25,M,Low,None,Yes,Love Coke refreshing
+C071,34,F,High,Yes,No,Too much sugar
+C072,29,M,Medium,N/A,Yes,Occasional drink
+C073,,F,High,Yes,No,Calories are high
+C074,41,M,unknown,Yes,No,Avoid sugary drinks
+C075,19,F,Low,None,Yes,Taste is great
+C076,55,M,High,Yes,No,Doctor advised against sugar
+C077,38,F,Medium,No,Yes,I like it sometimes
+C078,22,M,,None,Yes,Cool drink
+C079,27,F,High,Yes,No,Health conscious
+C080,25,M,Low,None,Yes,Love Coke refreshing
+C081,34,F,High,Yes,No,Too much sugar
+C082,29,M,Medium,N/A,Yes,Occasional drink
+C083,,F,High,Yes,No,Calories are high
+C084,41,M,unknown,Yes,No,Avoid sugary drinks
+C085,19,F,Low,None,Yes,Taste is great
+C086,55,M,High,Yes,No,Doctor advised against sugar
+C087,38,F,Medium,No,Yes,I like it sometimes
+C088,22,M,,None,Yes,Cool drink
+C089,27,F,High,Yes,No,Health conscious
+C090,25,M,Low,None,Yes,Love Coke refreshing
+C091,34,F,High,Yes,No,Too much sugar
+C092,29,M,Medium,N/A,Yes,Occasional drink
+C093,,F,High,Yes,No,Calories are high
+C094,41,M,unknown,Yes,No,Avoid sugary drinks
+C095,19,F,Low,None,Yes,Taste is great
+C096,55,M,High,Yes,No,Doctor advised against sugar
+C097,38,F,Medium,No,Yes,I like it sometimes
+C098,22,M,,None,Yes,Cool drink
+C099,27,F,High,Yes,No,Health conscious
+C100,25,M,Low,None,Yes,Love Coke refreshing
